@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated artifacts (recreate with the scripts)
+data/transactions.csv
+model.pkl
+output/fraud.db
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
